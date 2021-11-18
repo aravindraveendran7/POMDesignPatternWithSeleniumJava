@@ -1,0 +1,12 @@
+package com.demo.enums;
+
+public enum ConfigProperties {
+	
+	URL,
+	OVERRIDEREPORTS,
+	PASSSTEPSCREENSHOT,
+	FAILEDSTEPSCREENSHOT,
+	SKIPPEDSTEPSCREENSHOT,
+	BROWSER;
+
+}
