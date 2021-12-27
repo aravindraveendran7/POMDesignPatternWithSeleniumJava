@@ -20,3 +20,4 @@ Framework is designed with POM design pattern with selenium JAVA
 ### Features To be Added
 -Integreation with Docker
 -Integration with ELK Stack
+
