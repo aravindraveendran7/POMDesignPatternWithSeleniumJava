@@ -1,5 +1,6 @@
 # POMDesignPatternWithSeleniumJava
 Framework is designed with POM design pattern with selenium JAVA
+
 #FrameWork Goals
 Scalable and extensible
 Signleton Design Pattern
